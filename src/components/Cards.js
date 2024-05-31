@@ -19,7 +19,7 @@ function Cards() {
             <CardItem
               src='images/Bahamas.png'
               text='Discover pristine beaches, crystal-clear waters'
-              label='Luxury'
+              label='Travel'
               path='/services'
             />
           </ul>
@@ -27,7 +27,7 @@ function Cards() {
             <CardItem
               src='images/Babe.png'
               text='Capturing intimate moments and creating timeless memories.'
-              label='Mystery'
+              label='Date'
               path='/services'
             />
             <CardItem
@@ -37,9 +37,9 @@ function Cards() {
               path='/products'
             />
             <CardItem
-              src='images/Sheesh.png'
+              src='images/Bruh.png'
               text='Dive into the serenity of the great outdoors with us as we explore hidden gems and scenic landscapes.'
-              label='Adrenaline'
+              label='Nature'
               path='/sign-up'
             />
           </ul>

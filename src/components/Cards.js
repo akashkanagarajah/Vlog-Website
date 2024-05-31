@@ -11,6 +11,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
             //NOTE: When changes the image look within the PUBLIC FOLDER (NOT SRC)
+            // Also make sure to change PATH of each CARD to its correct path (i.e. videos//photos/about me page)
               src='images/Rafting.png'
               text='Witness the beauty of nature up close and feel the rush of the rapids!'
               label='Adventure'

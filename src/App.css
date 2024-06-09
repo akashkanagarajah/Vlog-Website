@@ -16,29 +16,41 @@
     font-size: 3rem;
   }
   
-  .services {
+  .videos {
     background-image: url('images/img-2.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
-  }
+    display: flex; /* Centering the content */
+    align-items: center; /* Centering the content */
+    justify-content: center; /* Centering the content */
+    height: 100vh; /* Full viewport height */
+}
   
-  .products {
-    background-image: url('images/img-1.jpg');
+  .photos {
+    background-image: url('images/img-6.jpg');
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
+    display: flex; /* Centering the content */
+    align-items: center; /* Centering the content */
+    justify-content: center; /* Centering the content */
+    height: 100vh; /* Full viewport height */
   }
   
-  .sign-up {
-    background-image: url('images/img-8.jpg');
+  .about-me {
+    background-image: url('images/img-home.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
+    display: flex; /* Centering the content */
+    align-items: center; /* Centering the content */
+    justify-content: center; /* Centering the content */
+    height: 100vh; /* Full viewport height */
   }

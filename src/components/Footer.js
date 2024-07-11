@@ -33,6 +33,7 @@ function Footer() {
               to='https://www.instagram.com/kanagarajah.vlogs/?igsh=MWk4NXpseTBqdTQ2MQ%3D%3D&utm_source=qr'
               target='_blank'
               aria-label='Instagram'
+
             >
               <i class='fab fa-instagram' />
             </Link>
@@ -46,19 +47,36 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='/'
+              to='https://x.com/akash_21_'
               target='_blank'
               aria-label='Twitter'
             >
               <i class='fab fa-twitter' />
             </Link>
             <Link
-              class='social-icon-link twitter'
-              to='/'
+              class='social-icon-link linkedIn'
+              to='https://www.linkedin.com/in/akash-kanagarajah-617498178/'
               target='_blank'
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
+            </Link>
+            <Link
+              class='social-icon-link linkedIn'
+              to='https://github.com/akashkanagarajah'
+              target='_blank'
+              aria-label='GitHub'
+            >
+              <i class='fab fa-github' />
+            </Link>
+
+            <Link
+              class='social-icon-link linkedIn'
+              to='https://vsco.co/axashrajah/gallery'
+              target='_blank'
+              aria-label='Vsco'
+            >
+              <i class='fab fa-vsco' />
             </Link>
           </div>
         </div>

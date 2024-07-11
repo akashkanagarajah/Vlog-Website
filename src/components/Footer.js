@@ -15,7 +15,7 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-            Kanagarajah.Vlogs <i class="fa-solid fa-video" style={{ color: '#74C0FC' }} > © 2024 </i> 
+            Kanagarajah.Vlogs <i class="fa-solid fa-video" style={{ color: '#74C0FC' }} ></i> © 2024 
             </Link>
           </div>
           

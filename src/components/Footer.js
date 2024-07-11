@@ -71,7 +71,7 @@ function Footer() {
             </Link>
 
             <Link
-              class='social-icon-link linkedIn'
+              class='social-icon-link vsco'
               to='https://vsco.co/axashrajah/gallery'
               target='_blank'
               aria-label='Vsco'

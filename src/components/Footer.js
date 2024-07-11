@@ -18,7 +18,7 @@ function Footer() {
             Kanagarajah.Vlogs <i class="fa-solid fa-video" style={{ color: '#74C0FC' }}></i>
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'> Kanagarajah.Vlogs <i class="fa-solid fa-video" style={{ color: '#74C0FC' }}></i>  © 2024</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

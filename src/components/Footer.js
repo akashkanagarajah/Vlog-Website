@@ -21,14 +21,6 @@ function Footer() {
           
           <div class='social-icons'>
             <Link
-              class='social-icon-link facebook'
-              to='/'
-              target='_blank'
-              aria-label='Facebook'
-            >
-              <i class='fab fa-facebook-f' />
-            </Link>
-            <Link
               class='social-icon-link instagram'
               to='https://www.instagram.com/kanagarajah.vlogs/?igsh=MWk4NXpseTBqdTQ2MQ%3D%3D&utm_source=qr'
               target='_blank'
@@ -36,14 +28,6 @@ function Footer() {
 
             >
               <i class='fab fa-instagram' />
-            </Link>
-            <Link
-              class='social-icon-link youtube'
-              to='/'
-              target='_blank'
-              aria-label='Youtube'
-            >
-              <i class='fab fa-youtube' />
             </Link>
             <Link
               class='social-icon-link twitter'

@@ -31,7 +31,6 @@ function Footer() {
             <Link
               class='social-icon-link instagram'
               href='https://www.instagram.com/kanagarajah.vlogs/?igsh=MWk4NXpseTBqdTQ2MQ%3D%3D&utm_source=qr'
-              to='/'
               target='_blank'
               aria-label='Instagram'
               rel='noopener noreferrer'

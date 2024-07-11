@@ -8,16 +8,17 @@ function Footer() {
     <div className='footer-container'>
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
+
         </div>
       </div>
       <section class='social-media'>
         <div class='social-media-wrap'>
           <div class='footer-logo'>
-            <Link to='/' className='navbar-logo'onClick={closeMobileMenu}>
-                  Kanagarajah.Vlogs <i class="fa-solid fa-video" style={{ color: '#74C0FC' }}></i>
+            <Link to='/' className='social-logo'>
+            Kanagarajah.Vlogs <i class="fa-solid fa-video" style={{ color: '#74C0FC' }}></i>
             </Link>
           </div>
-          <small class='website-rights'>Kanagarajah.Vlogs © 2024</small>
+          <small class='website-rights'>TRVL © 2020</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
